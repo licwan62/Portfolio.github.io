@@ -785,6 +785,22 @@ section,
   bottom: 0;
 }
 
+.portfolio .portfolio-title{
+  color: var(--heading-color);
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.portfolio .portfolio-date{
+  font-size: 16px;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
